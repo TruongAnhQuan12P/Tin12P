@@ -1,0 +1,23 @@
+<table border>="1"><caption><h2>Thời Khóa Biểu</h2></caption>
+   <tr>
+    <th>Thứ 2</th>
+    <th>Thứ 3</th>
+    <th>Thứ 4</th>
+    <th>Thứ 5</th>
+    <th>Thứ 6</th>
+    </tr><tr>
+      <td>đi học</td>
+      <td>đi học</td>
+      <td>đi học</td>     
+      <td>đi học</td>
+      <td>đi học</td>
+    </tr>
+    <tr>
+      <td>đi học</td>
+      <td>đi học</td>
+      <td>đi học</td>
+      <td>đi học</td>
+      <td>đi học</td>html {
+  height: 100%;
+  width: 100%;
+}
